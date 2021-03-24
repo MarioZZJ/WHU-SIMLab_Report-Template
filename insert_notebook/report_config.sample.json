@@ -1,0 +1,28 @@
+{
+  "use": true,
+  "indent": true,
+  "name": "张三",
+  "StudentID": "2018301040000",
+  "StudentGrade": "2018",
+  "tutor": "王老师",
+  "major": "信息管理与信息系统",
+  "labType": 1,
+  "labTerm": "2020-2021年第2学期",
+  "labWeek": "3-4",
+  "labHour": "3",
+  "courseName": "Python语言（实验）",
+  "projectName": "",
+  "labName": "Python IDE的安装和基本操作",
+
+  "preview": {
+    "use": true,
+    "theory": "书写实验原理，换行符为\\n\n暂时只支持纯文本输入。",
+    "device": "书写主要的元器件",
+    "goal": "书写实验目标\n换行\n换行",
+    "content": "书写实验内容\n1.学会正确使用全角逗号\n2.学会正确使用缩进\n3.学会安装python包\n4.学会google报错"
+  },
+  "summary": {
+    "use": true,
+    "text": "这里省略50000字，卷卷卷，目前不支持放图所以写再多也卷不赢\n不过你可以考虑自行在latex模板中修改。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "use": false,
+  "indent": false,
+  "name": "",
+  "StudentID": "",
+  "StudentGrade": "",
+  "tutor": "",
+  "major": "",
+  "labType": 1,
+  "labTerm": "",
+  "labWeek": "",
+  "labHour": "",
+  "courseName": "",
+  "projectName": "",
+  "labName": "",
+
+  "preview": {
+    "use": false,
+    "theory": "",
+    "device": "",
+    "goal": "",
+    "content": ""
+  },
+  "summary": {
+    "use": false,
+    "text": ""
+  }
+}
